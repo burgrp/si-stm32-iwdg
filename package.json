@@ -1,6 +1,6 @@
 {
 	"name": "@device.farm/si-stm32-iwdg",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"@device.farm/si-stm32-timer": "1.0.5"
 	},
