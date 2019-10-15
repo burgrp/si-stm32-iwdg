@@ -2,7 +2,7 @@
 	"name": "@device.farm/si-stm32-iwdg",
 	"version": "1.0.2",
 	"dependencies": {
-		"@device.farm/si-stm32-timer": "1.0.5"
+		"@device.farm/si-stm32-timer": "^1.0.5"
 	},
 	"silicon": {
 		"sources": [
